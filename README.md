@@ -4,12 +4,14 @@ Identification of HTML content entails identifying and comprehending the differe
 
 •	Basic structure tag:
 -----------------------------------------------------------
-	<!DOCTOTYPE html> : declares the document type and HTML version
-	<html>: the root element of the HTML page
-	<head>: contains meta- information about the document, like its title and links to scripts and stylesheets.
-	<title>: specifies the title of the document which is shown in the browser’s title bar or tab.
-	<body> contains the content of the document such as text, images, paragraphs ad other media. 
-	Text formatting tags:
+<!DOCTOTYPE html> : declares the document type and HTML version
+<html>: the root element of the HTML page
+	<head>: contains meta- information about the document, like its title and links to scripts and stylesheets.
+	<title>: specifies the title of the document which is shown in the browser’s title bar or tab.
+	<body> contains the content of the document such as text, images, paragraphs ad other media.
+    
+	Text formatting tags:
+ --------------------------------------------------------
 •	<h1>, <h2>, <h3>, …. <h6>: headings with <h1> being the highest( most important ) level and <h6> is the lowest
 •	<p> is for paragraphs.
 •	<br>: line break
